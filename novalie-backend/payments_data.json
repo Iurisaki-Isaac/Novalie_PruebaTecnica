@@ -1,0 +1,69 @@
+[
+    {
+      "id": "1954-0000",
+      "movement": "Expedition",
+      "client": "AGROGEN S.A. DE C.V.",
+      "antiguedad": 200,
+      "days": 92,
+      "amount": 200.000,      
+      "office": "Oficina 1",
+      "agent": "Juan Pérez",
+      "executive": true
+    },
+    {
+      "id": "8524-0000",
+      "movement": "Expedition",
+      "client": "DOMANI S.A. DE C.V.",
+      "antiguedad": 150,
+      "days": 61,
+      "amount": 150.000,
+      "office": "Oficina Central",
+      "agent": "María González",
+      "executive": false
+    },
+    {
+      "id": "1584-0000",
+      "movement": "Amplification",
+      "client": "AUTO SERVICIO COAHUILA S.A. DE C.V.",
+      "antiguedad": 98,
+      "days": 31,
+      "amount": 20.000,
+      "office": "Oficina 2",
+      "agent": "Pedro Rodríguez",
+      "executive": true
+    },
+    {
+      "id": "1845-0000",
+      "movement": "Extension",
+      "client": "BARCO QUIREZA FRANCISCO",
+      "antiguedad": 63,
+      "days": 33,
+      "amount": 980.00,
+      "office": "Oficina 1",
+      "agent": "Juan Pérez",
+      "executive": false
+    },
+    {
+      "id": "971-0457",
+      "movement": "Amplification",
+      "client": "CASA GALLARDO S.A. DE C.V.",
+      "antiguedad": 20,
+      "days": 0,
+      "amount": 1000.000,
+      "office": "Oficina Central",
+      "agent": "María González",
+      "executive": true
+    },
+    {
+      "id": "6587-0457",
+      "movement": "Extension",
+      "client": "AGROGEN S.A. DE C.V.",
+      "antiguedad": 15,
+      "days": 0,
+      "amount": 80.000,
+      "office": "Oficina 2",
+      "agent": "Pedro Rodríguez",
+      "executive": false
+    }
+  ]
+  
